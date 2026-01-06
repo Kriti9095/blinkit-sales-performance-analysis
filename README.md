@@ -9,8 +9,8 @@ The dashboard transforms raw retail sales data into meaningful insights that can
 
 ## Tools Used  
 - **MS Excel** – Initial data review and basic data cleaning  
-- **Power Query** – Data transformation and preprocessing  
-- **Power BI** – Data modeling, DAX calculations, and interactive dashboard creation  
+- **Power Query** – Data transformation and cleaning  
+- **Power BI** – Data modeling, DAX calculations, and interactive visualisations creation  
 
 ---
 

@@ -1,4 +1,4 @@
-#  Blinkit Sales Performance Dashboard
+#  Blinkit Sales Performance Analysis Dashboard
 
 ## About the Project  
 This project analyzes the sales performance of Blinkit across different outlets and product categories using an interactive Power BI dashboard. The objective is to understand sales behavior, consumer health preferences, and the impact of outlet size and location on overall revenue.

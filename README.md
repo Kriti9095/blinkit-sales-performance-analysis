@@ -66,7 +66,7 @@ These KPIs provide a quick snapshot of business scale, customer satisfaction, an
 
 ## Dashboard Preview  
 
-![Blinkit Sales Performance Dashboard](blinkit_dashboard.png)
+![Blinkit Sales Performance Dashboard](dashboard_blinkit.png)
 
 ---
 
